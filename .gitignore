@@ -1,0 +1,11 @@
+# python env
+.py3env
+__pycache__/
+
+# IDE configuration
+.idea/
+
+# data
+data/
+
+*.ignore
